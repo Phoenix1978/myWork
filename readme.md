@@ -8,7 +8,7 @@ This project has been done for exercise purpose only but if it can help somebody
 
 It can be extended to analyze all type of object list, not only a phrase.
 
-The work as to analyze a text WITHOUT using Java collections Framework, otherwise most of this could be written like this:
+The work has to analyze a text WITHOUT using Java collections Framework, otherwise most of this could be written like this:
 
 ```java
       ((Map<String, List<String>>) Arrays.asList(textToAnalyse.split(" "))
